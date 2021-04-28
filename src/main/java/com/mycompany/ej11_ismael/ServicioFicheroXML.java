@@ -20,20 +20,21 @@ public class ServicioFicheroXML {
     public void generarFicheroXML(String idFichero, ArrayList<App> lista) throws JAXBException {
         // Se preparan los objetos a utilizar, en esta caso un catálogo
 
+        // Se preparan los objetos a utilizar, en esta caso un catálogo
         CatalogoApps catalogo = new CatalogoApps();
         catalogo.setLista(lista);
         catalogo.setDescripcion("Mi catalogo");
-
+       
         // Crea el contexto JAXB. Se encarga de definir los objetos 
-        // que vamos a guardar. En nuestro caso sólo el tipo CatalogoMuebles
-        JAXBContext contexto = JAXBContext.newInstance(App.class);
-
+        // que vamos a guardar. En nuestro caso sólo el tipo CatalogoApps
+        JAXBContext contexto = JAXBContext.newInstance(CatalogoApps.class);
+        
         // El contexto JAXB permite crear un objeto Marshaller, que sirve para
         // generar la estructura del fichero XML 
-        // El proceso de pasar objetos Java (CatalogoMuebles) a ficheros XML 
+        // El proceso de pasar objetos Java (CatalogoApps) a ficheros XML 
         // se conoce como "marshalling" o "serialización"
         Marshaller serializador = contexto.createMarshaller();
-
+        
         // Especificamos que la propiedad del formato de salida
         // del serializador sea true, lo que implica que el formato se 
         // realiza con indentación y saltos de línea
@@ -44,8 +45,9 @@ public class ServicioFicheroXML {
         // consola, ficheros. El proceso consiste en que el contexto es el 
         // encargo de leer los objetos java, pasarlos al serializador y éste 
         // crear la salida de serialización
+        
         // Serialización y salida por consola
-        serializador.marshal(lista, System.out);
+        serializador.marshal(catalogo, System.out);
 
         // Volcado al fichero xml
         serializador.marshal(catalogo, new File(idFichero));

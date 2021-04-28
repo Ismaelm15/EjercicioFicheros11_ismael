@@ -14,6 +14,8 @@ import javax.xml.bind.annotation.XmlRootElement;
  *
  * @author ismae
  */
+
+
 @XmlRootElement(namespace = "ejemploJAXB")
 public class CatalogoApps {
     
@@ -23,7 +25,7 @@ public class CatalogoApps {
 
     // XmlElement establece el nombre de los elementos
     // Cada elemento de la lista llevará esta etiqueta en el fichero xml
-    @XmlElement(name = "mueble")
+    @XmlElement(name = "app")
     private ArrayList<App> listaApps;
 
     private String descripcion;

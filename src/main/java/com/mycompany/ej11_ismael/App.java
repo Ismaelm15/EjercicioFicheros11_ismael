@@ -6,11 +6,10 @@
 package com.mycompany.ej11_ismael;
 
 import java.time.LocalDate;
-import java.time.Month;
 import java.util.Objects;
 import java.util.Random;
-import java.util.stream.DoubleStream;
 import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 
 /**
  *
@@ -23,6 +22,7 @@ public class App {
     private static int codigo = 0;
     private String nombre, descripcion;
     private double tamañoKb;
+    @XmlJavaTypeAdapter(value = LocalDateAdapter.class)
     LocalDate fechaCreacion=LocalDate.now();
 
     

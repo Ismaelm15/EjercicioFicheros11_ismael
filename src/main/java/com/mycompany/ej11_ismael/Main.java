@@ -24,8 +24,9 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws JAXBException, IOException {
-        ServicioFicheroTSV tsv= new ServicioFicheroTSV();
-        ServicioFicheroXML xml= new ServicioFicheroXML();
+        ServicioFicheroTSV tsv = new ServicioFicheroTSV();
+        ServicioFicheroXML xml = new ServicioFicheroXML();
+        ServicioFicheroJSON json = new ServicioFicheroJSON();
         ArrayList<App> lista = new ArrayList<>();
         for (int i = 0; i < 50; i++) {
             lista.add(new App());
@@ -38,9 +39,12 @@ public class Main {
         crearDirectorio("./appsjson");
         crearDirectorio("./copias");
         crearDirectorio("./aplicaciones");
-//        xml.generarFicheroXML("./appsxml/aplicaciones.xml", lista);
-        tsv.generarFichero("./appstsv/aplicaciones.tsv", lista);
-        ServicioFicheroJSON.escribirJSON("./appsjson/aplicaciones.json", lista);
+        xml.generarFicheroXML("./appsxml/aplicaciones.xml", lista);
+        tsv.generarFicheroTSV("./appstsv/aplicaciones.tsv", lista);
+        json.escribirJSON("./appsjson/aplicaciones.json", lista);
+        for (App app : lista) {
+            ServicioFicheroJSON.escribirJSON("./aplicaciones/" + app.getNombre(), app);
+        }
     }
 
     public static void crearDirectorio(String ruta) {

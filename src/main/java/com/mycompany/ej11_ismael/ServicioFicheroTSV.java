@@ -16,7 +16,7 @@ import java.util.ArrayList;
  */
 public class ServicioFicheroTSV {
 
-    public void generarFichero(String idFichero, ArrayList<App> lista) {
+    public void generarFicheroTSV(String idFichero, ArrayList<App> lista) {
 
         try ( BufferedWriter flujo = new BufferedWriter(new FileWriter(idFichero))) {
             for (App app : lista) {

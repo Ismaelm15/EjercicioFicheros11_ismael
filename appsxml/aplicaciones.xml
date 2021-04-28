@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:catalogoApps xmlns:ns2="ejemploJAXB">
+    <catalogoApp>
+        <app>
+            <descripcion>Tiene bugs</descripcion>
+            <fechaCreacion/>
+            <nombre>App1e</nombre>
+            <tamañoKb>447.58296770457343</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta malo</descripcion>
+            <fechaCreacion/>
+            <nombre>App2c</nombre>
+            <tamañoKb>143.8383028384401</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta bueno</descripcion>
+            <fechaCreacion/>
+            <nombre>App3a</nombre>
+            <tamañoKb>708.5685084118812</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta bueno</descripcion>
+            <fechaCreacion/>
+            <nombre>App4n</nombre>
+            <tamañoKb>561.3094292039955</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta regular</descripcion>
+            <fechaCreacion/>
+            <nombre>App5x</nombre>
+            <tamañoKb>523.2902131970643</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene fallos</descripcion>
+            <fechaCreacion/>
+            <nombre>App6j</nombre>
+            <tamañoKb>182.9432554282646</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta regular</descripcion>
+            <fechaCreacion/>
+            <nombre>App7v</nombre>
+            <tamañoKb>499.78861515882744</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Falla al inicio</descripcion>
+            <fechaCreacion/>
+            <nombre>App8o</nombre>
+            <tamañoKb>806.4828165493999</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta regular</descripcion>
+            <fechaCreacion/>
+            <nombre>App9k</nombre>
+            <tamañoKb>111.02390741384487</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta bueno</descripcion>
+            <fechaCreacion/>
+            <nombre>App10s</nombre>
+            <tamañoKb>890.5163506985209</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene fallos</descripcion>
+            <fechaCreacion/>
+            <nombre>App11k</nombre>
+            <tamañoKb>453.88098278857115</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene bugs</descripcion>
+            <fechaCreacion/>
+            <nombre>App12d</nombre>
+            <tamañoKb>815.0597938593364</tamañoKb>
+        </app>
+        <app>
+            <descripcion>No funciona para android 11</descripcion>
+            <fechaCreacion/>
+            <nombre>App13q</nombre>
+            <tamañoKb>353.0520206252919</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene fallos</descripcion>
+            <fechaCreacion/>
+            <nombre>App14w</nombre>
+            <tamañoKb>214.20990688868946</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Edicion limitada</descripcion>
+            <fechaCreacion/>
+            <nombre>App15l</nombre>
+            <tamañoKb>785.8025139680906</tamañoKb>
+        </app>
+        <app>
+            <descripcion>No funciona para android 11</descripcion>
+            <fechaCreacion/>
+            <nombre>App16y</nombre>
+            <tamañoKb>413.61093492478534</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene fallos</descripcion>
+            <fechaCreacion/>
+            <nombre>App17d</nombre>
+            <tamañoKb>926.3927699363544</tamañoKb>
+        </app>
+        <app>
+            <descripcion>No funciona para android 11</descripcion>
+            <fechaCreacion/>
+            <nombre>App18o</nombre>
+            <tamañoKb>480.2978078767284</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Funciona perfectamente</descripcion>
+            <fechaCreacion/>
+            <nombre>App19c</nombre>
+            <tamañoKb>407.3811958636097</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Falla al inicio</descripcion>
+            <fechaCreacion/>
+            <nombre>App20u</nombre>
+            <tamañoKb>376.8887361270774</tamañoKb>
+        </app>
+        <app>
+            <descripcion>No tiene compatibilidad con Samsung</descripcion>
+            <fechaCreacion/>
+            <nombre>App21i</nombre>
+            <tamañoKb>149.7456339383433</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta regular</descripcion>
+            <fechaCreacion/>
+            <nombre>App22l</nombre>
+            <tamañoKb>497.4733199795018</tamañoKb>
+        </app>
+        <app>
+            <descripcion>No tiene compatibilidad con Samsung</descripcion>
+            <fechaCreacion/>
+            <nombre>App23j</nombre>
+            <tamañoKb>557.5053902407558</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Falla al inicio</descripcion>
+            <fechaCreacion/>
+            <nombre>App24q</nombre>
+            <tamañoKb>912.8761872187954</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene bugs</descripcion>
+            <fechaCreacion/>
+            <nombre>App25z</nombre>
+            <tamañoKb>275.64429385587084</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Funciona perfectamente</descripcion>
+            <fechaCreacion/>
+            <nombre>App26r</nombre>
+            <tamañoKb>568.3707970548431</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta malo</descripcion>
+            <fechaCreacion/>
+            <nombre>App27f</nombre>
+            <tamañoKb>183.62639559671675</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene bugs</descripcion>
+            <fechaCreacion/>
+            <nombre>App28d</nombre>
+            <tamañoKb>359.11354678077305</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Edicion limitada</descripcion>
+            <fechaCreacion/>
+            <nombre>App29o</nombre>
+            <tamañoKb>900.9941195244118</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Falla al inicio</descripcion>
+            <fechaCreacion/>
+            <nombre>App30p</nombre>
+            <tamañoKb>130.59345745617105</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene bugs</descripcion>
+            <fechaCreacion/>
+            <nombre>App31c</nombre>
+            <tamañoKb>693.2543651730516</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Falla al inicio</descripcion>
+            <fechaCreacion/>
+            <nombre>App32v</nombre>
+            <tamañoKb>341.64263052971023</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene fallos</descripcion>
+            <fechaCreacion/>
+            <nombre>App33y</nombre>
+            <tamañoKb>115.42275254141552</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta malo</descripcion>
+            <fechaCreacion/>
+            <nombre>App34z</nombre>
+            <tamañoKb>840.0328991233446</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Funciona perfectamente</descripcion>
+            <fechaCreacion/>
+            <nombre>App35n</nombre>
+            <tamañoKb>157.46941969283557</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene fallos</descripcion>
+            <fechaCreacion/>
+            <nombre>App36i</nombre>
+            <tamañoKb>128.5086098901073</tamañoKb>
+        </app>
+        <app>
+            <descripcion>No funciona para android 11</descripcion>
+            <fechaCreacion/>
+            <nombre>App37s</nombre>
+            <tamañoKb>123.75892691004361</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta bueno</descripcion>
+            <fechaCreacion/>
+            <nombre>App38e</nombre>
+            <tamañoKb>998.135913017631</tamañoKb>
+        </app>
+        <app>
+            <descripcion>No tiene compatibilidad con Samsung</descripcion>
+            <fechaCreacion/>
+            <nombre>App39o</nombre>
+            <tamañoKb>927.2349850661626</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta malo</descripcion>
+            <fechaCreacion/>
+            <nombre>App40w</nombre>
+            <tamañoKb>725.8528286972214</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta regular</descripcion>
+            <fechaCreacion/>
+            <nombre>App41s</nombre>
+            <tamañoKb>986.0791256126612</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Falla al inicio</descripcion>
+            <fechaCreacion/>
+            <nombre>App42b</nombre>
+            <tamañoKb>694.6914373937784</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta regular</descripcion>
+            <fechaCreacion/>
+            <nombre>App43s</nombre>
+            <tamañoKb>894.6337041789582</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta bueno</descripcion>
+            <fechaCreacion/>
+            <nombre>App44u</nombre>
+            <tamañoKb>101.19083307402552</tamañoKb>
+        </app>
+        <app>
+            <descripcion>No funciona para android 11</descripcion>
+            <fechaCreacion/>
+            <nombre>App45o</nombre>
+            <tamañoKb>806.5042556945433</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Edicion limitada</descripcion>
+            <fechaCreacion/>
+            <nombre>App46n</nombre>
+            <tamañoKb>778.15761203463</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Esta bueno</descripcion>
+            <fechaCreacion/>
+            <nombre>App47r</nombre>
+            <tamañoKb>726.3336629138204</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Tiene bugs</descripcion>
+            <fechaCreacion/>
+            <nombre>App48e</nombre>
+            <tamañoKb>1016.0553363250162</tamañoKb>
+        </app>
+        <app>
+            <descripcion>No tiene compatibilidad con Samsung</descripcion>
+            <fechaCreacion/>
+            <nombre>App49d</nombre>
+            <tamañoKb>626.5690911743184</tamañoKb>
+        </app>
+        <app>
+            <descripcion>Funciona perfectamente</descripcion>
+            <fechaCreacion/>
+            <nombre>App50z</nombre>
+            <tamañoKb>846.0624048007608</tamañoKb>
+        </app>
+    </catalogoApp>
+    <descripcion>Mi catalogo</descripcion>
+</ns2:catalogoApps>

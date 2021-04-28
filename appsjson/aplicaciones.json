@@ -1,901 +1,901 @@
 [ {
-  "nombre" : "App1t",
+  "nombre" : "App1e",
   "descripcion" : "Tiene bugs",
-  "tamañoKb" : 609.022391604276,
-  "fechaCreacion" : {
-    "year" : 2019,
-    "month" : "JULY",
-    "monthValue" : 7,
-    "dayOfMonth" : 21,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 202,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App2y",
-  "descripcion" : "Funciona perfectamente",
-  "tamañoKb" : 890.3459336744087,
-  "fechaCreacion" : {
-    "year" : 2015,
-    "month" : "MAY",
-    "monthValue" : 5,
-    "dayOfMonth" : 8,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 128,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App3o",
-  "descripcion" : "Esta regular",
-  "tamañoKb" : 669.175799915155,
-  "fechaCreacion" : {
-    "year" : 2000,
-    "month" : "OCTOBER",
-    "monthValue" : 10,
-    "dayOfMonth" : 15,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 289,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App4b",
-  "descripcion" : "Edicion limitada",
-  "tamañoKb" : 995.3479693952318,
+  "tamañoKb" : 447.58296770457343,
   "fechaCreacion" : {
     "year" : 2012,
-    "month" : "NOVEMBER",
-    "monthValue" : 11,
-    "dayOfMonth" : 30,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 335,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App5s",
-  "descripcion" : "Edicion limitada",
-  "tamañoKb" : 722.0785420193289,
-  "fechaCreacion" : {
-    "year" : 2012,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 3,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 94,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App6u",
-  "descripcion" : "Tiene bugs",
-  "tamañoKb" : 497.71370779751123,
-  "fechaCreacion" : {
-    "year" : 2009,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 18,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 108,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App7p",
-  "descripcion" : "Tiene fallos",
-  "tamañoKb" : 752.4361960486964,
-  "fechaCreacion" : {
-    "year" : 2019,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 21,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 172,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App8e",
-  "descripcion" : "No tiene compatibilidad con Samsung",
-  "tamañoKb" : 620.9050783959234,
-  "fechaCreacion" : {
-    "year" : 2009,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 8,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 39,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App9s",
-  "descripcion" : "Falla al inicio",
-  "tamañoKb" : 263.42740310820903,
-  "fechaCreacion" : {
-    "year" : 2001,
-    "month" : "JANUARY",
-    "monthValue" : 1,
-    "dayOfMonth" : 10,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 10,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App10l",
-  "descripcion" : "Tiene bugs",
-  "tamañoKb" : 444.72271252522853,
-  "fechaCreacion" : {
-    "year" : 2009,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 22,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 112,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App11l",
-  "descripcion" : "No funciona para android 11",
-  "tamañoKb" : 115.50405716095801,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "OCTOBER",
-    "monthValue" : 10,
-    "dayOfMonth" : 19,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 293,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App12w",
-  "descripcion" : "Edicion limitada",
-  "tamañoKb" : 199.99232978775925,
-  "fechaCreacion" : {
-    "year" : 2010,
-    "month" : "JANUARY",
-    "monthValue" : 1,
-    "dayOfMonth" : 2,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 2,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App13i",
-  "descripcion" : "Tiene bugs",
-  "tamañoKb" : 814.408813288843,
-  "fechaCreacion" : {
-    "year" : 2005,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 20,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 171,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App14k",
-  "descripcion" : "Esta regular",
-  "tamañoKb" : 478.83152103738183,
-  "fechaCreacion" : {
-    "year" : 2008,
-    "month" : "MAY",
-    "monthValue" : 5,
-    "dayOfMonth" : 10,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 131,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App15h",
-  "descripcion" : "Funciona perfectamente",
-  "tamañoKb" : 881.1963349970758,
-  "fechaCreacion" : {
-    "year" : 2014,
-    "month" : "DECEMBER",
-    "monthValue" : 12,
-    "dayOfMonth" : 28,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 362,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App16n",
-  "descripcion" : "Tiene fallos",
-  "tamañoKb" : 794.4390982791989,
-  "fechaCreacion" : {
-    "year" : 2013,
-    "month" : "NOVEMBER",
-    "monthValue" : 11,
-    "dayOfMonth" : 18,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 322,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App17y",
-  "descripcion" : "Funciona perfectamente",
-  "tamañoKb" : 387.4326117566879,
-  "fechaCreacion" : {
-    "year" : 2000,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 3,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 155,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App18z",
-  "descripcion" : "No tiene compatibilidad con Samsung",
-  "tamañoKb" : 125.6138437470839,
-  "fechaCreacion" : {
-    "year" : 2001,
-    "month" : "DECEMBER",
-    "monthValue" : 12,
-    "dayOfMonth" : 24,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 358,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App19k",
-  "descripcion" : "Esta bueno",
-  "tamañoKb" : 533.1646647360012,
-  "fechaCreacion" : {
-    "year" : 2020,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 2,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 93,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App20s",
-  "descripcion" : "Edicion limitada",
-  "tamañoKb" : 164.61730041409737,
-  "fechaCreacion" : {
-    "year" : 2012,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 15,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 106,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App21r",
-  "descripcion" : "Tiene bugs",
-  "tamañoKb" : 207.2197534859153,
-  "fechaCreacion" : {
-    "year" : 2019,
-    "month" : "JANUARY",
-    "monthValue" : 1,
-    "dayOfMonth" : 30,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 30,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App22k",
-  "descripcion" : "No tiene compatibilidad con Samsung",
-  "tamañoKb" : 796.1753397576622,
-  "fechaCreacion" : {
-    "year" : 2013,
-    "month" : "JULY",
-    "monthValue" : 7,
-    "dayOfMonth" : 3,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 184,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App23g",
-  "descripcion" : "Esta malo",
-  "tamañoKb" : 436.5935674417424,
-  "fechaCreacion" : {
-    "year" : 2001,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 8,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 39,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App24m",
-  "descripcion" : "Esta bueno",
-  "tamañoKb" : 340.39833304287777,
-  "fechaCreacion" : {
-    "year" : 2019,
-    "month" : "DECEMBER",
-    "monthValue" : 12,
-    "dayOfMonth" : 16,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 350,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App25h",
-  "descripcion" : "Esta regular",
-  "tamañoKb" : 838.7569846792956,
-  "fechaCreacion" : {
-    "year" : 2015,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 25,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 176,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App26f",
-  "descripcion" : "Edicion limitada",
-  "tamañoKb" : 1009.6897534512435,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "NOVEMBER",
-    "monthValue" : 11,
-    "dayOfMonth" : 7,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 312,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App27j",
-  "descripcion" : "Esta malo",
-  "tamañoKb" : 505.8635643347845,
-  "fechaCreacion" : {
-    "year" : 2004,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 17,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 48,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App28y",
-  "descripcion" : "Edicion limitada",
-  "tamañoKb" : 725.1416616020389,
-  "fechaCreacion" : {
-    "year" : 2020,
-    "month" : "MAY",
-    "monthValue" : 5,
-    "dayOfMonth" : 27,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 148,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App29u",
-  "descripcion" : "Esta regular",
-  "tamañoKb" : 766.8329651963268,
-  "fechaCreacion" : {
-    "year" : 2008,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 25,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 56,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App30q",
-  "descripcion" : "Tiene fallos",
-  "tamañoKb" : 752.0326693835572,
-  "fechaCreacion" : {
-    "year" : 2012,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 12,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 103,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App31v",
-  "descripcion" : "No funciona para android 11",
-  "tamañoKb" : 916.1922434651257,
-  "fechaCreacion" : {
-    "year" : 2020,
-    "month" : "JULY",
-    "monthValue" : 7,
-    "dayOfMonth" : 21,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 203,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App32v",
-  "descripcion" : "No funciona para android 11",
-  "tamañoKb" : 435.2417380337724,
-  "fechaCreacion" : {
-    "year" : 2014,
-    "month" : "OCTOBER",
-    "monthValue" : 10,
-    "dayOfMonth" : 24,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 297,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App33u",
-  "descripcion" : "Esta bueno",
-  "tamañoKb" : 209.96812926136607,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 27,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 179,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App34e",
-  "descripcion" : "Funciona perfectamente",
-  "tamañoKb" : 632.8089377260657,
-  "fechaCreacion" : {
-    "year" : 2012,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 17,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 48,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App35d",
-  "descripcion" : "Esta bueno",
-  "tamañoKb" : 659.6068400368124,
-  "fechaCreacion" : {
-    "year" : 2016,
     "month" : "SEPTEMBER",
     "monthValue" : 9,
-    "dayOfMonth" : 11,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 255,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App36n",
-  "descripcion" : "No tiene compatibilidad con Samsung",
-  "tamañoKb" : 287.0101749910355,
-  "fechaCreacion" : {
-    "year" : 2004,
-    "month" : "AUGUST",
-    "monthValue" : 8,
-    "dayOfMonth" : 5,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 218,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App37s",
-  "descripcion" : "Edicion limitada",
-  "tamañoKb" : 903.5419283436659,
-  "fechaCreacion" : {
-    "year" : 2020,
-    "month" : "JANUARY",
-    "monthValue" : 1,
-    "dayOfMonth" : 20,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 20,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App38q",
-  "descripcion" : "Falla al inicio",
-  "tamañoKb" : 793.1305131142873,
-  "fechaCreacion" : {
-    "year" : 2001,
-    "month" : "SEPTEMBER",
-    "monthValue" : 9,
-    "dayOfMonth" : 11,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 254,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App39l",
-  "descripcion" : "No funciona para android 11",
-  "tamañoKb" : 883.1548067816192,
-  "fechaCreacion" : {
-    "year" : 2017,
-    "month" : "SEPTEMBER",
-    "monthValue" : 9,
-    "dayOfMonth" : 5,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 248,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App40z",
-  "descripcion" : "No tiene compatibilidad con Samsung",
-  "tamañoKb" : 650.5218759282421,
-  "fechaCreacion" : {
-    "year" : 2008,
-    "month" : "MAY",
-    "monthValue" : 5,
-    "dayOfMonth" : 13,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 134,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App41j",
-  "descripcion" : "Esta malo",
-  "tamañoKb" : 749.9756143712153,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "OCTOBER",
-    "monthValue" : 10,
-    "dayOfMonth" : 28,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 302,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : true
-  }
-}, {
-  "nombre" : "App42f",
-  "descripcion" : "No funciona para android 11",
-  "tamañoKb" : 118.69445322224567,
-  "fechaCreacion" : {
-    "year" : 2019,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 5,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 156,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App43p",
-  "descripcion" : "Tiene bugs",
-  "tamañoKb" : 205.5753574221397,
-  "fechaCreacion" : {
-    "year" : 2014,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 28,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 59,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App44v",
-  "descripcion" : "No tiene compatibilidad con Samsung",
-  "tamañoKb" : 507.5274840465415,
-  "fechaCreacion" : {
-    "year" : 2010,
-    "month" : "OCTOBER",
-    "monthValue" : 10,
-    "dayOfMonth" : 24,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 297,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App45z",
-  "descripcion" : "Esta regular",
-  "tamañoKb" : 442.34029082172304,
-  "fechaCreacion" : {
-    "year" : 2020,
-    "month" : "OCTOBER",
-    "monthValue" : 10,
     "dayOfMonth" : 14,
     "chronology" : {
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
-    "era" : "CE",
-    "dayOfYear" : 288,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : true
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "dayOfYear" : 258,
+    "era" : "CE"
   }
 }, {
-  "nombre" : "App46o",
-  "descripcion" : "Tiene bugs",
-  "tamañoKb" : 931.4620362708364,
+  "nombre" : "App2c",
+  "descripcion" : "Esta malo",
+  "tamañoKb" : 143.8383028384401,
   "fechaCreacion" : {
-    "year" : 2001,
-    "month" : "JANUARY",
-    "monthValue" : 1,
-    "dayOfMonth" : 4,
+    "year" : 2009,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 20,
     "chronology" : {
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
-    "era" : "CE",
-    "dayOfYear" : 4,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 110,
+    "era" : "CE"
   }
 }, {
-  "nombre" : "App47p",
-  "descripcion" : "Falla al inicio",
-  "tamañoKb" : 283.5871067047618,
+  "nombre" : "App3a",
+  "descripcion" : "Esta bueno",
+  "tamañoKb" : 708.5685084118812,
   "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
+    "year" : 2003,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 28,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 240,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App4n",
+  "descripcion" : "Esta bueno",
+  "tamañoKb" : 561.3094292039955,
+  "fechaCreacion" : {
+    "year" : 2015,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 8,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 189,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App5x",
+  "descripcion" : "Esta regular",
+  "tamañoKb" : 523.2902131970643,
+  "fechaCreacion" : {
+    "year" : 2009,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 3,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 337,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App6j",
+  "descripcion" : "Tiene fallos",
+  "tamañoKb" : 182.9432554282646,
+  "fechaCreacion" : {
+    "year" : 2014,
+    "month" : "MARCH",
+    "monthValue" : 3,
     "dayOfMonth" : 13,
     "chronology" : {
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
-    "era" : "CE",
-    "dayOfYear" : 44,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : true
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 72,
+    "era" : "CE"
   }
 }, {
-  "nombre" : "App48u",
-  "descripcion" : "No tiene compatibilidad con Samsung",
-  "tamañoKb" : 454.58553445779074,
+  "nombre" : "App7v",
+  "descripcion" : "Esta regular",
+  "tamañoKb" : 499.78861515882744,
   "fechaCreacion" : {
-    "year" : 2002,
+    "year" : 2004,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 18,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "dayOfYear" : 200,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App8o",
+  "descripcion" : "Falla al inicio",
+  "tamañoKb" : 806.4828165493999,
+  "fechaCreacion" : {
+    "year" : 2005,
     "month" : "OCTOBER",
     "monthValue" : 10,
-    "dayOfMonth" : 29,
+    "dayOfMonth" : 18,
     "chronology" : {
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
-    "era" : "CE",
-    "dayOfYear" : 302,
     "dayOfWeek" : "TUESDAY",
-    "leapYear" : false
+    "leapYear" : false,
+    "dayOfYear" : 291,
+    "era" : "CE"
   }
 }, {
-  "nombre" : "App49i",
-  "descripcion" : "Falla al inicio",
-  "tamañoKb" : 274.8525777519228,
+  "nombre" : "App9k",
+  "descripcion" : "Esta regular",
+  "tamañoKb" : 111.02390741384487,
   "fechaCreacion" : {
-    "year" : 2013,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 22,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 173,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false
-  }
-}, {
-  "nombre" : "App50y",
-  "descripcion" : "Esta bueno",
-  "tamañoKb" : 603.9727538284749,
-  "fechaCreacion" : {
-    "year" : 2018,
-    "month" : "MAY",
-    "monthValue" : 5,
+    "year" : 2019,
+    "month" : "JANUARY",
+    "monthValue" : 1,
     "dayOfMonth" : 10,
     "chronology" : {
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
-    "era" : "CE",
-    "dayOfYear" : 130,
     "dayOfWeek" : "THURSDAY",
-    "leapYear" : false
+    "leapYear" : false,
+    "dayOfYear" : 10,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App10s",
+  "descripcion" : "Esta bueno",
+  "tamañoKb" : 890.5163506985209,
+  "fechaCreacion" : {
+    "year" : 2007,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 1,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 121,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App11k",
+  "descripcion" : "Tiene fallos",
+  "tamañoKb" : 453.88098278857115,
+  "fechaCreacion" : {
+    "year" : 2011,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 29,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 272,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App12d",
+  "descripcion" : "Tiene bugs",
+  "tamañoKb" : 815.0597938593364,
+  "fechaCreacion" : {
+    "year" : 2017,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 3,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 3,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App13q",
+  "descripcion" : "No funciona para android 11",
+  "tamañoKb" : 353.0520206252919,
+  "fechaCreacion" : {
+    "year" : 2012,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 2,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true,
+    "dayOfYear" : 154,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App14w",
+  "descripcion" : "Tiene fallos",
+  "tamañoKb" : 214.20990688868946,
+  "fechaCreacion" : {
+    "year" : 2019,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 18,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 108,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App15l",
+  "descripcion" : "Edicion limitada",
+  "tamañoKb" : 785.8025139680906,
+  "fechaCreacion" : {
+    "year" : 2006,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 22,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 326,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App16y",
+  "descripcion" : "No funciona para android 11",
+  "tamañoKb" : 413.61093492478534,
+  "fechaCreacion" : {
+    "year" : 2019,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 232,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App17d",
+  "descripcion" : "Tiene fallos",
+  "tamañoKb" : 926.3927699363544,
+  "fechaCreacion" : {
+    "year" : 2006,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 10,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 283,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App18o",
+  "descripcion" : "No funciona para android 11",
+  "tamañoKb" : 480.2978078767284,
+  "fechaCreacion" : {
+    "year" : 2001,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 28,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 179,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App19c",
+  "descripcion" : "Funciona perfectamente",
+  "tamañoKb" : 407.3811958636097,
+  "fechaCreacion" : {
+    "year" : 2002,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 13,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 347,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App20u",
+  "descripcion" : "Falla al inicio",
+  "tamañoKb" : 376.8887361270774,
+  "fechaCreacion" : {
+    "year" : 2012,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 29,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "dayOfYear" : 334,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App21i",
+  "descripcion" : "No tiene compatibilidad con Samsung",
+  "tamañoKb" : 149.7456339383433,
+  "fechaCreacion" : {
+    "year" : 2008,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 19,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 324,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App22l",
+  "descripcion" : "Esta regular",
+  "tamañoKb" : 497.4733199795018,
+  "fechaCreacion" : {
+    "year" : 2003,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 5,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 339,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App23j",
+  "descripcion" : "No tiene compatibilidad con Samsung",
+  "tamañoKb" : 557.5053902407558,
+  "fechaCreacion" : {
+    "year" : 2016,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 6,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 6,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App24q",
+  "descripcion" : "Falla al inicio",
+  "tamañoKb" : 912.8761872187954,
+  "fechaCreacion" : {
+    "year" : 2000,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 5,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 5,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App25z",
+  "descripcion" : "Tiene bugs",
+  "tamañoKb" : 275.64429385587084,
+  "fechaCreacion" : {
+    "year" : 2002,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 24,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 328,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App26r",
+  "descripcion" : "Funciona perfectamente",
+  "tamañoKb" : 568.3707970548431,
+  "fechaCreacion" : {
+    "year" : 2019,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 18,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 108,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App27f",
+  "descripcion" : "Esta malo",
+  "tamañoKb" : 183.62639559671675,
+  "fechaCreacion" : {
+    "year" : 2015,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 1,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 182,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App28d",
+  "descripcion" : "Tiene bugs",
+  "tamañoKb" : 359.11354678077305,
+  "fechaCreacion" : {
+    "year" : 2010,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 3,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 184,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App29o",
+  "descripcion" : "Edicion limitada",
+  "tamañoKb" : 900.9941195244118,
+  "fechaCreacion" : {
+    "year" : 2019,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 9,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 343,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App30p",
+  "descripcion" : "Falla al inicio",
+  "tamañoKb" : 130.59345745617105,
+  "fechaCreacion" : {
+    "year" : 2008,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 16,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 198,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App31c",
+  "descripcion" : "Tiene bugs",
+  "tamañoKb" : 693.2543651730516,
+  "fechaCreacion" : {
+    "year" : 2007,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 9,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 9,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App32v",
+  "descripcion" : "Falla al inicio",
+  "tamañoKb" : 341.64263052971023,
+  "fechaCreacion" : {
+    "year" : 2015,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 12,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 132,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App33y",
+  "descripcion" : "Tiene fallos",
+  "tamañoKb" : 115.42275254141552,
+  "fechaCreacion" : {
+    "year" : 2009,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 2,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 183,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App34z",
+  "descripcion" : "Esta malo",
+  "tamañoKb" : 840.0328991233446,
+  "fechaCreacion" : {
+    "year" : 2006,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 6,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 310,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App35n",
+  "descripcion" : "Funciona perfectamente",
+  "tamañoKb" : 157.46941969283557,
+  "fechaCreacion" : {
+    "year" : 2001,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 23,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 23,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App36i",
+  "descripcion" : "Tiene fallos",
+  "tamañoKb" : 128.5086098901073,
+  "fechaCreacion" : {
+    "year" : 2018,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 29,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 149,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App37s",
+  "descripcion" : "No funciona para android 11",
+  "tamañoKb" : 123.75892691004361,
+  "fechaCreacion" : {
+    "year" : 2013,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 11,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 254,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App38e",
+  "descripcion" : "Esta bueno",
+  "tamañoKb" : 998.135913017631,
+  "fechaCreacion" : {
+    "year" : 2002,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 23,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 113,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App39o",
+  "descripcion" : "No tiene compatibilidad con Samsung",
+  "tamañoKb" : 927.2349850661626,
+  "fechaCreacion" : {
+    "year" : 2018,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 19,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 19,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App40w",
+  "descripcion" : "Esta malo",
+  "tamañoKb" : 725.8528286972214,
+  "fechaCreacion" : {
+    "year" : 2020,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 17,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "dayOfYear" : 261,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App41s",
+  "descripcion" : "Esta regular",
+  "tamañoKb" : 986.0791256126612,
+  "fechaCreacion" : {
+    "year" : 2002,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 11,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 162,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App42b",
+  "descripcion" : "Falla al inicio",
+  "tamañoKb" : 694.6914373937784,
+  "fechaCreacion" : {
+    "year" : 2015,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 1,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 274,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App43s",
+  "descripcion" : "Esta regular",
+  "tamañoKb" : 894.6337041789582,
+  "fechaCreacion" : {
+    "year" : 2018,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 16,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 259,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App44u",
+  "descripcion" : "Esta bueno",
+  "tamañoKb" : 101.19083307402552,
+  "fechaCreacion" : {
+    "year" : 2010,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 110,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App45o",
+  "descripcion" : "No funciona para android 11",
+  "tamañoKb" : 806.5042556945433,
+  "fechaCreacion" : {
+    "year" : 2004,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 14,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 105,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App46n",
+  "descripcion" : "Edicion limitada",
+  "tamañoKb" : 778.15761203463,
+  "fechaCreacion" : {
+    "year" : 2013,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 18,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 291,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App47r",
+  "descripcion" : "Esta bueno",
+  "tamañoKb" : 726.3336629138204,
+  "fechaCreacion" : {
+    "year" : 2005,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 6,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 340,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App48e",
+  "descripcion" : "Tiene bugs",
+  "tamañoKb" : 1016.0553363250162,
+  "fechaCreacion" : {
+    "year" : 2008,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "dayOfYear" : 213,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App49d",
+  "descripcion" : "No tiene compatibilidad con Samsung",
+  "tamañoKb" : 626.5690911743184,
+  "fechaCreacion" : {
+    "year" : 2019,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 1,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 91,
+    "era" : "CE"
+  }
+}, {
+  "nombre" : "App50z",
+  "descripcion" : "Funciona perfectamente",
+  "tamañoKb" : 846.0624048007608,
+  "fechaCreacion" : {
+    "year" : 2007,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 5,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 36,
+    "era" : "CE"
   }
 } ]
