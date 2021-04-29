@@ -22,6 +22,7 @@ public class App {
     private static int codigo = 0;
     private String nombre, descripcion;
     private double tamañoKb;
+    @XmlJavaTypeAdapter(value = LocalDateAdapter.class)
     LocalDate fechaCreacion=LocalDate.now();
 
     
